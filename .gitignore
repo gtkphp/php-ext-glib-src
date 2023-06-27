@@ -10,6 +10,9 @@ config.log
 config.nice
 config.status
 libtool
+build
+include
+modules
 
 *.slo
 *.lo
