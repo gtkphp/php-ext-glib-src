@@ -1,0 +1,24 @@
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.so.*
+*.dll
+*.dylib
+
+*.pro.user
+*.pro.user.*
+Makefile*
+
+# QtCreator
+*.autosave
+
+# QtCreator local machine specific files for imported projects
+*creator.user*
+*.config
+*.creator
+*.files
+*.includes
