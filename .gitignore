@@ -1,3 +1,10 @@
+autom4te.cache/
+build/
+config.h.in
+configure
+configure.ac
+run-tests.php
+
 *.slo
 *.lo
 *.o
